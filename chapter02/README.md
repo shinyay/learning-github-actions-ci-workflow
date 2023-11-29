@@ -1,4 +1,4 @@
-# Learning GitHub Actions - Chapter 1
+# Learning GitHub Actions - Chapter 2
 
 Overview
 
