@@ -7,7 +7,6 @@ Overview
 - [Checkout V4 - Main Page](https://github.com/actions/checkout)
   - <https://github.com/actions/checkout>
 
-
 ## Demo
 
 ## Features
